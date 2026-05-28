@@ -17,7 +17,7 @@ The result, once forced: every coherent computational structure — elliptic cur
 
 ### The Shared Object
 
-$$\tau_{\mathrm{learn}}(t) = Z_{\mathrm{learn}}(t) = \operatorname{Tr}\!\left[e^{-\mathcal{L}_{JL}/T_{\mathrm{learn}}}\right] = \text{Selberg heat trace on } \mathcal{M} = \text{isomonodromic } \tau\text{-function of PVI}$$
+$$\tau_{\mathrm{learn}}(t) = Z_{\mathrm{learn}}(t) = {Tr}\!\left[e^{-\mathcal{L}_{JL}/T_{\mathrm{learn}}}\right] = \text{Selberg heat trace on } \mathcal{M} = \text{isomonodromic } \tau\text{-function of PVI}$$
 
 This function is simultaneously:
 - The **TH(a,d) modular partition function** — its poles at the Killing horizon $\Delta = 0$ carry the Hawking temperature $T_{\mathrm{TH}} = \kappa/(2\pi)$
